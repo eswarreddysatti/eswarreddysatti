@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 430">
+<rect width="700" height="430" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="42" font-family="monospace" font-size="22" fill="#39d353">eswar@github:~$ neofetch</text>
+<text x="28" y="92" font-family="monospace" font-size="16" fill="#8b949e">Role</text>
+<text x="160" y="92" font-family="monospace" font-size="16" fill="#f0f6fc">Systems Operations Analyst</text>
+<text x="28" y="144" font-family="monospace" font-size="16" fill="#8b949e">Focus</text>
+<text x="160" y="144" font-family="monospace" font-size="16" fill="#f0f6fc">Cloud Ops / DevOps / Cybersecurity</text>
+<text x="28" y="196" font-family="monospace" font-size="16" fill="#8b949e">Stack</text>
+<text x="160" y="196" font-family="monospace" font-size="16" fill="#f0f6fc">AWS · Linux · Splunk · Python · Bash</text>
+<text x="28" y="248" font-family="monospace" font-size="16" fill="#8b949e">Security</text>
+<text x="160" y="248" font-family="monospace" font-size="16" fill="#f0f6fc">SIEM · IR · IAM · Detection Engineering</text>
+<text x="28" y="300" font-family="monospace" font-size="16" fill="#8b949e">Tools</text>
+<text x="160" y="300" font-family="monospace" font-size="16" fill="#f0f6fc">ServiceNow · PowerShell · Networking</text>
+<text x="28" y="352" font-family="monospace" font-size="16" fill="#8b949e">Learning</text>
+<text x="160" y="352" font-family="monospace" font-size="16" fill="#f0f6fc">Azure · Cloud Security · Automation</text>
+</svg>

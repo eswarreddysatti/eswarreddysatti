@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#0d1117"/>
+<text x="30" y="55" font-family="monospace" font-size="24" fill="#39d353">ASCII PORTRAIT</text>
+<text x="30" y="105" font-family="monospace" font-size="16" fill="#8b949e">photo.jpg required</text>
+<text x="30" y="145" font-family="monospace" font-size="16" fill="#f0f6fc">python scripts/prep_photo.py</text>
+<text x="30" y="180" font-family="monospace" font-size="16" fill="#f0f6fc">python scripts/make_ascii_svg.py</text>
+</svg>
