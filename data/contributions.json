@@ -1,19 +1,14 @@
 {
   "username": "eswarreddysatti",
-  "total": 1717,
-  "current_streak": 0,
-  "longest_streak": 20,
+  "total": 1687,
+  "current_streak": 2,
+  "longest_streak": 19,
   "best_day": {
     "date": "2026-06-27",
     "count": 48,
     "level": 4
   },
   "days": [
-    {
-      "date": "2025-09-07",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-14",
       "count": 5,
@@ -275,9 +270,9 @@
       "level": 2
     },
     {
-      "date": "2025-09-08",
-      "count": 8,
-      "level": 3
+      "date": "2026-09-13",
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2025-09-15",
@@ -540,11 +535,6 @@
       "level": 1
     },
     {
-      "date": "2025-09-09",
-      "count": 3,
-      "level": 1
-    },
-    {
       "date": "2025-09-16",
       "count": 6,
       "level": 2
@@ -801,11 +791,6 @@
     },
     {
       "date": "2026-09-08",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-09-10",
       "count": 1,
       "level": 1
     },
@@ -1070,11 +1055,6 @@
       "level": 1
     },
     {
-      "date": "2025-09-11",
-      "count": 10,
-      "level": 4
-    },
-    {
       "date": "2025-09-18",
       "count": 7,
       "level": 3
@@ -1333,11 +1313,6 @@
       "date": "2026-09-10",
       "count": 1,
       "level": 1
-    },
-    {
-      "date": "2025-09-12",
-      "count": 7,
-      "level": 3
     },
     {
       "date": "2025-09-19",
@@ -1600,11 +1575,6 @@
       "level": 1
     },
     {
-      "date": "2025-09-13",
-      "count": 2,
-      "level": 1
-    },
-    {
       "date": "2025-09-20",
       "count": 2,
       "level": 1
@@ -1861,8 +1831,8 @@
     },
     {
       "date": "2026-09-12",
-      "count": 0,
-      "level": 0
+      "count": 1,
+      "level": 1
     }
   ]
 }
